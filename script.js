@@ -38,6 +38,7 @@ noBtn.addEventListener("mouseover", () => {
 
 // Logic to make YES btn to grow
 
+
 let yesScale = 1;
 
 yesBtn.style.position = "relative"
